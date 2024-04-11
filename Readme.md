@@ -3,7 +3,7 @@
 Welcome to the HelloWorld repository. This is a simple demonstration repository to get started with GitHub.
 
 ## Introduction
-This repository contains a basic "Hello, World!" example code.
+This repository contains a basic "Hello, World!" example code for Python.
 
 ## Usage
 You can run the `hello_world.py` file to see the "Hello, World!" message printed to the console.
